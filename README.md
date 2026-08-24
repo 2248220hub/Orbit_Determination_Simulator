@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛰️ OD Console
+# 🛰️ OD Console - ORBIT DETERMINATION Pipeline of Space Navigators
 
 ### Interactive orbit determination — batch **and** sequential, in one HTML file
 
