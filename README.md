@@ -8,7 +8,7 @@
 <b>60 real range / range-rate observables · 7 estimators · 8 guided stages · no build step</b></p>
 
 [![Live demo](https://img.shields.io/badge/▶_Live_demo-GitHub_Pages-45D6C4?style=for-the-badge)](https://2248220hub.github.io/Orbit_Determination_Simulator/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinoth_Emberumal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinoth_Emberumal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leovr/)
 [![License](https://img.shields.io/badge/License-MIT-FFB454?style=for-the-badge)](LICENSE)
 
 <sub><b>single file</b> · <b>zero build dependencies</b> · <b>runs offline &amp; online</b> · <b>phone → 4K</b><br>
@@ -18,6 +18,7 @@
 </div>
 
 ---
+<img width="1536" height="1024" alt="Untitled design" src="https://github.com/user-attachments/assets/dbb66f75-57b3-4e0e-8f8d-2e311761bc33" />
 
 ## 📖 Abstract
 
