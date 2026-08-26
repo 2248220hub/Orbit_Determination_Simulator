@@ -18,7 +18,8 @@
 </div>
 
 ---
-<img width="1536" height="1024" alt="Untitled design" src="https://github.com/user-attachments/assets/dbb66f75-57b3-4e0e-8f8d-2e311761bc33" />
+<img width="1536" height="1024" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/c9995eaa-02e9-4479-aeec-683a37895f06" />
+
 
 ## 📖 Abstract
 
